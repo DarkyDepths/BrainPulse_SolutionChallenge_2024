@@ -16,7 +16,7 @@
     <a href="https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/issues">Request Feature</a>
   </p>
 </p>  
-Watch the product demo on:<br>
+Watch the Product Demo on:<br>
 
 <a href="https://youtu.be/r32pGFkGYj4?si=aPQFznipnmlWrRgt">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube Badge"/>
@@ -42,7 +42,7 @@ FEED IT FORWARD
 
 <!-- GOALS -->
 ## Our Goals
-Good health and well-being              | Decent work and economic growth              |  innovation and infrastructure |  Reduced inequalities               |  Partnerships for the goals
+Good Health and Well-Being              | Decent Work and Economic Growth              |  Innovation and Infrastructure |  Reduced Inequalities               |  Partnerships for the Goals
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![SDG3](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/751190d2-2cf9-4f9d-b3d6-ff02c6f0fc81)|![SDG8](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/e1732c52-a209-4e6f-9d7e-c0a52c46fcc8)|![SDG9](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/e0a1b5ab-d851-4e72-a6a5-0f1fb31ff5ca)|![SDG10](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/a3b567a4-f638-4601-a0f0-b6652449224c)|![SDG17](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/682e40e7-fd58-4228-80d9-cab59ac87b13)|
 ## Features :
