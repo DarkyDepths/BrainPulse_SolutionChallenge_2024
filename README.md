@@ -46,11 +46,11 @@ Good Health and Well-Being              | Decent Work and Economic Growth       
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![SDG3](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/751190d2-2cf9-4f9d-b3d6-ff02c6f0fc81)|![SDG8](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/e1732c52-a209-4e6f-9d7e-c0a52c46fcc8)|![SDG9](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/e0a1b5ab-d851-4e72-a6a5-0f1fb31ff5ca)|![SDG10](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/a3b567a4-f638-4601-a0f0-b6652449224c)|![SDG17](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/682e40e7-fd58-4228-80d9-cab59ac87b13)|
 ## Features :
--Personalize Your Mental Health State With AI
--Intelligent Mood Tracking & Emotion Insights
--AI Mental Journaling & AI Therapy Chatbot
--Mindful Resources That Makes You Happy
--Loving & Supportive Community
+-Personalize Your Mental Health State With AI <br>
+-Intelligent Mood Tracking & Emotion Insights <br>
+-AI Mental Journaling & AI Therapy Chatbot <br>
+-Mindful Resources That Makes You Happy<br>
+-Loving & Supportive Community<br>
 <hr>
 <table style="width: 100%;">
   <tr>
@@ -90,13 +90,13 @@ Good Health and Well-Being              | Decent Work and Economic Growth       
 <hr>
 
 ## Technologies :
-- Flutter <br>
--Android <br>
+- Flutter 
+-Android 
 - Firebase Google Auth <br>
-- Google Calendar API (coming soon...) <br>
-- Google cloud <br>
--Google Colab <br>
--Gemma (2b/2b-it/7b/7b-it) <br>
+- Google Calendar API (coming soon...) 
+- Google cloud 
+-Google Colab 
+-Gemma (2b/2b-it/7b/7b-it) 
 <!-- GETTING STARTED -->
 ## 🚀 Getting Started :
 
