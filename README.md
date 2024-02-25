@@ -93,10 +93,10 @@ Good Health and Well-Being              | Decent Work and Economic Growth       
 - Flutter 
 -Android 
 - Firebase Google Auth 
-- Google Calendar API (coming soon...) 
-- Google cloud <br>
--Google Colab <br>
--Gemma (2b/2b-it/7b/7b-it) 
+- Google Calendar API (coming soon...)
+- Gemma (2b/2b-it/7b/7b-it) 
+- Google Colab
+- Google cloud 
 <!-- GETTING STARTED -->
 ## 🚀 Getting Started :
 
