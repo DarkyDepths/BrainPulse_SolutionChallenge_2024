@@ -94,8 +94,8 @@ Good Health and Well-Being              | Decent Work and Economic Growth       
 -Android 
 - Firebase Google Auth 
 - Google Calendar API (coming soon...) 
-- Google cloud 
--Google Colab 
+- Google cloud <br>
+-Google Colab <br>
 -Gemma (2b/2b-it/7b/7b-it) 
 <!-- GETTING STARTED -->
 ## 🚀 Getting Started :
