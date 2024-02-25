@@ -154,10 +154,10 @@ Every night & every deploy, the spread sheet will be parsed by GitHub actions, t
 <!-- CONTACT -->
 ## 📌 Contact
 
-- Linkedin at [Mohamed-guidara](https://www.linkedin.com/in/mohamed-guidara/) (Team-Member)
-- Linkedin at [houcem-hbiri](https://www.linkedin.com/in/houcem-hbiri-22550528a/) (Team-Member)
-- Linkedin at [Wissem_karous](https://www.linkedin.com/in/wissem-karous-32b4b6225/) (Team-Member)
-- Linkedin at [yessin msaddak](https://www.linkedin.com/in/yessin-msaddak-412a2b251/)
+- Linkedin at [Mohamed-Guidara](https://www.linkedin.com/in/mohamed-guidara/) 
+- Linkedin at [Houcem-Hbiri](https://www.linkedin.com/in/houcem-hbiri-22550528a/) 
+- Linkedin at [Wissem_Karous](https://www.linkedin.com/in/wissem-karous-32b4b6225/) 
+- Linkedin at [Yessin Msaddak](https://www.linkedin.com/in/yessin-msaddak-412a2b251/)
 
 
 
