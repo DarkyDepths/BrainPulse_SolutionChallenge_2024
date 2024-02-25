@@ -91,12 +91,12 @@ Good Health and Well-Being              | Decent Work and Economic Growth       
 
 ## Technologies :
 - Flutter
-- Android
+-Android
 - Firebase Google Auth
-- Google Colab
-- Gemma (2b/2b-it/7b/7b-it)
 - Google Calendar API (coming soon...)
 - Google cloud
+-Google Colab
+-Gemma (2b/2b-it/7b/7b-it)
 <!-- GETTING STARTED -->
 ## 🚀 Getting Started :
 
