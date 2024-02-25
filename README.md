@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
+<p>
   <a href="https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024">
     <img src="https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/e86310aa-f5d4-4de7-be60-1549976f8a07" alt="Logo" width="400">
   </a>
