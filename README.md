@@ -180,3 +180,6 @@ For Everything you can check [Repo](https://github.com/DarkyDepths/BrainPulse_So
 - Linkedin at [Wissem_Karous](https://www.linkedin.com/in/wissem-karous-32b4b6225/) 
 - Linkedin at [Yessin Msaddak](https://www.linkedin.com/in/yessin-msaddak-412a2b251/)
 
+## 🪪 License
+
+BrainPulse is licensed under the MIT license. See [LICENSE.txt](LICENSE.txt) for more information.
