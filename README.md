@@ -154,7 +154,7 @@ Every night & every deploy, the spread sheet will be parsed by GitHub actions, t
 <!-- CONTACT -->
 ## Video Preview
 
-[Demo][<img src="https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/55ac2b6f-582e-48d0-bbf5-f2a9aac228a1"/>](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/55ac2b6f-582e-48d0-bbf5-f2a9aac228a1)
+[Demo](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/blob/main/assets/115191512/55ac2b6f-582e-48d0-bbf5-f2a9aac228a1)
 
 
 For Everything you can check [app](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024)
