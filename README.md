@@ -134,7 +134,7 @@ flutter run
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/YunusEmreAlps/Icarus/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/issues)) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## 🤔 Contributing (Feel free to contribute!)
@@ -152,12 +152,19 @@ Every night & every deploy, the spread sheet will be parsed by GitHub actions, t
 - A pull request with a breaking test would be super preferable here but isn't required
 
 <!-- CONTACT -->
+## Video Preview
+
+<img src="https://github.com/YunusEmreAlps/Icarus/blob/master/ss/icarus.gif"/>
+
+
+For Everything you can check [app](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024)
+
+
+
 ## 📌 Contact
 
 - Linkedin at [Mohamed-Guidara](https://www.linkedin.com/in/mohamed-guidara/) 
 - Linkedin at [Houcem-Hbiri](https://www.linkedin.com/in/houcem-hbiri-22550528a/) 
 - Linkedin at [Wissem_Karous](https://www.linkedin.com/in/wissem-karous-32b4b6225/) 
 - Linkedin at [Yessin Msaddak](https://www.linkedin.com/in/yessin-msaddak-412a2b251/)
-
-
 
