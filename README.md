@@ -22,7 +22,6 @@ Watch the product demo on:<br>
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube Badge"/>
   </a> 	
   
- <hr>
 <!-- ABOUT THE PROJECT -->
 ## Description :
 BrainPulse is a cutting-edge mobile and web platform designed to transform mental health management in high-stress professional environments through personalized support, diagnostics, and therapeutic interventions. Utilizing AI and customized business portals, it enables organizations to enhance workforce well-being and productivity by providing employees with access to medically validated mental health strategies. This innovative solution addresses the urgent need for accessible, effective mental health care in sectors such as healthcare, military, sports, academia, and corporate workplaces.
