@@ -45,7 +45,7 @@ This project directly addresses the identified challenge by offering an accessib
 
 ## App Presentation :
 Check this PPT file : [PPT](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/files/14398008/Project_BrainPulse.2.pptx)
-[app_249_ref_aps_depression_vf.pdf)
+
 
 <!-- GOALS -->
 ## Our Goals :
