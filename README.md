@@ -51,19 +51,19 @@ Good health and well-being              | Decent work and economic growth       
   <tr>
     <td style="text-align: center;">
       <img src="https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/39937303-e8fd-4544-9b97-7b5ecabe57e7" alt="Image 1" style="width: 100%;">
-      <p>Step 1 </p>
+      <h3>Step 1 </h3>
     </td>
     <td style="text-align: center;">
       <img src="https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/5e35533d-1a90-4b71-838f-2570d51a59fd" alt="Image 8" style="width: 100%;">
-      <p>Step 2</p>
+      <h3>Step 2</h3>
     </td>
     <td style="text-align: center;">
       <img src="https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/6a22f64c-b562-40cc-b427-00751c7b7dd5" alt="Image 2" style="width: 100%;">
-      <p>Step 3</p>
+      <h3>Step 3</h3>
     </td>
     <td style="text-align: center;">
       <img src="https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/eb7da4bc-b210-4dcd-856a-dd39400c863f" alt="Image 3" style="width: 100%;">
-      <p>Step 4</p>
+      <h3>Step 4</h3>
     </td>
   </tr>
 </table>
