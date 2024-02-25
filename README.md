@@ -43,7 +43,9 @@ By integrating advanced AI analyses, a user-friendly interface, and evidence-bas
 This project directly addresses the identified challenge by offering an accessible, effective, and scientifically grounded solution to combat the adverse effects of stress and mental health issues in the workplace.
 
 
-FEED IT FORWARD
+## App Presentation :
+Check this PPT file : [PPT](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/files/14398008/Project_BrainPulse.2.pptx)
+[app_249_ref_aps_depression_vf.pdf)
 
 <!-- GOALS -->
 ## Our Goals :
