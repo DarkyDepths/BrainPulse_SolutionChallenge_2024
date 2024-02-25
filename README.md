@@ -23,39 +23,6 @@ Watch the product demo on:<br>
   </a> 	
   
  <hr>
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#what-is-our-problem">About The Project</a>
-    </li>
-    <li>
-      <a href="#the-story-of-icarus-name">About BrainPulse</a>
-    </li>
-    <li>
-      <a href="#todo">Todo</a>
-    </li>
-    <li>
-      <a href="#technologies">Technologies</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#clone">Clone</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#Firebase">Firebase</a></li>
-    <li><a href="#Screenshots">Screenshots</a></li>
-  </ol>
-</details>
-
 <!-- ABOUT THE PROJECT -->
 ## Description :
 BrainPulse is a cutting-edge mobile and web platform designed to transform mental health management in high-stress professional environments through personalized support, diagnostics, and therapeutic interventions. Utilizing AI and customized business portals, it enables organizations to enhance workforce well-being and productivity by providing employees with access to medically validated mental health strategies. This innovative solution addresses the urgent need for accessible, effective mental health care in sectors such as healthcare, military, sports, academia, and corporate workplaces.
