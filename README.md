@@ -95,7 +95,7 @@ Good Health and Well-Being              | Decent Work and Economic Growth       
 <hr>
 
 ## Figma File link : 
-To check more details about UI/UX, please access this file<br>
+To check more details about UI, please access this file<br>
 Figma File link: [Figma](https://www.figma.com/file/pluItP8bUZuRECSPKqyyPn/Google-Solution-Challenge-Submission?type=design&node-id=0%3A1&mode=design&t=HXiPGWGTeo4f7bwE-1&fbclid=IwAR3ZTOKZ739YWBgfjPXXSWoojbk36o700233uYGWvX5KsyaeCKLLcwNOpWM)
 
 
