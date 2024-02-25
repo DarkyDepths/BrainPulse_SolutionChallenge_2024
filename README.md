@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024">
     <img src="https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/71d85497-7449-40ef-8495-ed113daf0014" alt="Logo" width="400">
-    <img src="https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/71d85497-7449-40ef-8495-ed113daf0014" alt="Logo" width="400">
   </a>
 </p>
   <h2 align="center">BrainPulse</h2>
