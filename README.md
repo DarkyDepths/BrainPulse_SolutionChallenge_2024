@@ -54,6 +54,7 @@ Medical Papers : <br>
 
 ## Result :
 [Result](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/files/14398011/Questionnaire_for_Mental_Health_Diagnosis_in_BrainPulse.docx)
+[Diagnosis](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/blob/main/Medical%20Approach/Diagnosis.py)
 
 <!-- GOALS -->
 ## Our Goals :
