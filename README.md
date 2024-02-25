@@ -8,7 +8,7 @@
   <h2 align="center">BrainPulse</h2>
 
   <p align="center">
-    <h3>Local Action, Global Impact</h3> 
+    Local Action, Global Impact 
     <br />
     ·
     <a href="https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/issues">Report Bug</a>
