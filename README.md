@@ -113,7 +113,7 @@ To run any Android application built with Flutter you need to configure the envi
 - Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
 - A little knowledge of Dart and Flutter
 
-### Clone
+### Clone :
 
 - Clone this repo to your local machine using:
 
@@ -121,15 +121,15 @@ To run any Android application built with Flutter you need to configure the envi
 git clone https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024.git
 ```
 
-### Setup
+### Setup :
 
 To run the app you need to have an online emulator or a plugged device and run the following command in the root of the application.
 
-#### Android
+#### Android :
 ```
 flutter run
 ``` 
-### iOS (_MAC Only_)
+#### iOS (_MAC Only_) :
 
 ```
 flutter run
