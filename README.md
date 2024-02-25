@@ -91,8 +91,8 @@ Good Health and Well-Being              | Decent Work and Economic Growth       
 
 ## Technologies :
 - Flutter 
--Android 
-- Firebase Google Auth 
+- Firebase Google Auth
+- Android 
 - Google Calendar API (coming soon...)
 - Gemma (2b/2b-it/7b/7b-it) 
 - Google Colab
