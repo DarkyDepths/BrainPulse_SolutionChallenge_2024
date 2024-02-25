@@ -31,7 +31,12 @@ The modern workplace is facing a critical challenge related to mental health, wi
 Annually, the United States experiences a loss of approximately 550 million days due to absences linked to stress, highlighting a pervasive issue within the professional environment. Stress-related conditions not only affect personal health but also result in considerable economic costs for employers and the broader society. Furthermore, studies, including those by The American Institute of Stress in 2022, reveal that 75% of individuals in high-stress fields suffer from mental health troubles, and 50% of all employees experience work-related stress. 
 This data underscores the urgent need for effective solutions to manage and mitigate mental health issues in the workplace.
 
-## What is Our Solution? :
+## What is Our Solution? : 
+<p align="center">
+  <a href="https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024">
+    <img src="https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/71d85497-7449-40ef-8495-ed113daf0014" alt="Logo" width="400">
+  </a>
+</p>
 BrainPulse aims to revolutionize mental health management within the professional setting (high stress domains: healthcare professionals, military bases, sport industry, academic institutions, corporate workplaces, and firms...) by providing personalized support through a mobile and web platform powered by Artificial Intelligence (AI) and cutting-edge algorithms. 
 This innovative solution offers diagnostics, assessments, therapeutic treatments, and personalized monitoring in mental health through a medically validated approach endorsed by medical professionals.
 By integrating advanced AI analyses, a user-friendly interface, and evidence-based mental health strategies, BrainPulse significantly contributes to the individual and collective well-being and productivity.
@@ -91,7 +96,7 @@ Good Health and Well-Being              | Decent Work and Economic Growth       
 
 ## Figma File link : 
 To check more details about UI/UX, please access this file
-Figma File link: [figma](https://www.figma.com/file/pluItP8bUZuRECSPKqyyPn/Google-Solution-Challenge-Submission?type=design&node-id=0%3A1&mode=design&t=HXiPGWGTeo4f7bwE-1&fbclid=IwAR3ZTOKZ739YWBgfjPXXSWoojbk36o700233uYGWvX5KsyaeCKLLcwNOpWM)
+Figma File link: [Figma](https://www.figma.com/file/pluItP8bUZuRECSPKqyyPn/Google-Solution-Challenge-Submission?type=design&node-id=0%3A1&mode=design&t=HXiPGWGTeo4f7bwE-1&fbclid=IwAR3ZTOKZ739YWBgfjPXXSWoojbk36o700233uYGWvX5KsyaeCKLLcwNOpWM)
 
 
 ## Technologies :
