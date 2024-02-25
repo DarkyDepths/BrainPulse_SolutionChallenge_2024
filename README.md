@@ -50,7 +50,7 @@ Good health and well-being              | Decent work and economic growth       
 <table style="width: 100%;">
   <tr>
     <td style="text-align: center;">
-      <"https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/39937303-e8fd-4544-9b97-7b5ecabe57e7" alt="Image 1" style="width: 100%;">
+      <img src="https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/39937303-e8fd-4544-9b97-7b5ecabe57e7" alt="Image 1" style="width: 100%;">
       <p>Step 1 </p>
     </td>
     <td style="text-align: center;">
