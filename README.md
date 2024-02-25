@@ -104,11 +104,11 @@ Good Health and Well-Being              | Decent Work and Economic Growth       
 
 To run any Android application built with Flutter you need to configure the enviroments in your machine, you can do this following the the tutorial provided by Google in [Flutter website](https://flutter.dev/docs/get-started/install)
 
-- Flutter SDK
-- Android Studio (to download Android SDK)
-- Xcode (for iOS develop only)
-- Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
-- A little knowledge of Dart and Flutter
+  - Flutter SDK
+  - Android Studio (to download Android SDK)
+  - Xcode (for iOS develop only)
+  - Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+  - A little knowledge of Dart and Flutter
 
 ### Clone :
 
