@@ -131,4 +131,33 @@ flutter run
 ```
 flutter run
 ``` 
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/YunusEmreAlps/Icarus/issues) for a list of proposed features (and known issues).
+
+<!-- CONTRIBUTING -->
+## 🤔 Contributing (Feel free to contribute!)
+
+Awesome! Contributions of all kinds are greatly appreciated. To help smoothen the process we have a few non-exhaustive guidelines to follow which should get you going in no time.
+
+Every night & every deploy, the spread sheet will be parsed by GitHub actions, then generate this beauty. Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+### Using GitHub Issues
+
+- Feel free to use GitHub issues for questions, bug reports, and feature requests
+- Use the search feature to check for an existing issue
+- Include as much information as possible and provide any relevant resources (Eg. screenshots)
+- For bug reports ensure you have a reproducible test case
+- A pull request with a breaking test would be super preferable here but isn't required
+
+<!-- CONTACT -->
+## 📌 Contact
+
+- Linkedin at [Mohamed-guidara](https://www.linkedin.com/in/mohamed-guidara/) (Team-Member)
+- Linkedin at [houcem-hbiri](https://www.linkedin.com/in/houcem-hbiri-22550528a/) (Team-Member)
+- Linkedin at [Wissem_karous](https://www.linkedin.com/in/wissem-karous-32b4b6225/) (Team-Member)
+- Linkedin at [yessin msaddak](https://www.linkedin.com/in/yessin-msaddak-412a2b251/)
+
+
 
