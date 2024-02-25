@@ -45,3 +45,27 @@ FEED IT FORWARD
 Good health and well-being              | Decent work and economic growth              |  innovation and infrastructure |  Reduced inequalities               |  Partnerships for the goals
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![SDG3](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/751190d2-2cf9-4f9d-b3d6-ff02c6f0fc81)|![SDG8](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/e1732c52-a209-4e6f-9d7e-c0a52c46fcc8)|![SDG9](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/e0a1b5ab-d851-4e72-a6a5-0f1fb31ff5ca)|![SDG10](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/a3b567a4-f638-4601-a0f0-b6652449224c)|![SDG17](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/682e40e7-fd58-4228-80d9-cab59ac87b13)|
+## Features :
+<hr>
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: center;">
+      <"https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/39937303-e8fd-4544-9b97-7b5ecabe57e7" alt="Image 1" style="width: 100%;">
+      <p>Step 1 </p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/5e35533d-1a90-4b71-838f-2570d51a59fd" alt="Image 8" style="width: 100%;">
+      <p>Step 2</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/6a22f64c-b562-40cc-b427-00751c7b7dd5" alt="Image 2" style="width: 100%;">
+      <p>Step 3</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/assets/115191512/eb7da4bc-b210-4dcd-856a-dd39400c863f" alt="Image 3" style="width: 100%;">
+      <p>Step 4</p>
+    </td>
+  </tr>
+</table>
+
+<hr>
