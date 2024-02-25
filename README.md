@@ -182,4 +182,4 @@ For Everything you can check [Repo](https://github.com/DarkyDepths/BrainPulse_So
 
 ## 🪪 License
 
-BrainPulse is licensed under the MIT license. See [LICENSE.txt](LICENSE.txt) for more information.
+BrainPulse is licensed under the MIT license. See LICENSE FILE for more information.
