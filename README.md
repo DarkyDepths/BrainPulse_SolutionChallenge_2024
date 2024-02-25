@@ -45,7 +45,15 @@ This project directly addresses the identified challenge by offering an accessib
 
 ## App Presentation :
 Check this PPT file : [PPT](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/files/14398008/Project_BrainPulse.2.pptx)
+## What we are based on :
+Medical Papers : 
+[File1](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/files/14398012/DSM5.pdf)
+[File2](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/files/14398013/ICD11.pdf)
+[file3](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/files/14398071/Classification_Approach.pdf)
+[file4](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/files/14398010/app_249_ref_aps_depression_vf.pdf)
 
+## Result :
+[Result](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/files/14398011/Questionnaire_for_Mental_Health_Diagnosis_in_BrainPulse.docx)
 
 <!-- GOALS -->
 ## Our Goals :
