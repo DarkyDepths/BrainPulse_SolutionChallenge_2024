@@ -49,8 +49,8 @@ Check this PPT file : [PPT](https://github.com/DarkyDepths/BrainPulse_SolutionCh
 Medical Papers : <br>
 [File1](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/files/14398012/DSM5.pdf)<br>
 [File2](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/files/14398013/ICD11.pdf)<br>
-[file3](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/files/14398071/Classification_Approach.pdf)<br>
-[file4](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/files/14398010/app_249_ref_aps_depression_vf.pdf)
+[File3](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/files/14398071/Classification_Approach.pdf)<br>
+[File4](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/files/14398010/app_249_ref_aps_depression_vf.pdf)
 
 ## Result :
 [Result](https://github.com/DarkyDepths/BrainPulse_SolutionChallenge_2024/files/14398011/Questionnaire_for_Mental_Health_Diagnosis_in_BrainPulse.docx)
